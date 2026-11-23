@@ -1,0 +1,6 @@
+{
+  "name": "PulsePhone",
+  "description": "Modular, 100% customizable Android Dialer & Contacts app with Jetpack DataStore settings hub, unlimited Room call logs, Smart Caller ID & Social Auto-Finder, OLED InCallService, and Google Contacts & Drive sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

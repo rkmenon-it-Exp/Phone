@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PulsePhone</string>
+    <string name="notification_listener_label">PulsePhone Smart Caller ID</string>
+    <string name="accessibility_service_label">PulsePhone Social Caller Lookup</string>
+    <string name="accessibility_service_description">Optional: Helps PulsePhone look up public display names and profile photos for unknown callers in WhatsApp and Telegram when Smart Caller ID Auto-Finder is enabled.</string>
+    <string name="in_call_service_label">PulsePhone Dialer Service</string>
+    <string name="settings_title">Settings &amp; Customization</string>
+    <string name="tab_favorites">Favorites</string>
+    <string name="tab_phone">Phone</string>
+    <string name="tab_contacts">Contacts</string>
+    <string name="tab_groups">Groups</string>
+    <string name="tab_recents">Recents</string>
+    <string name="not_in_contacts">Not in contacts</string>
+    <string name="save_to_google_contacts">Save to Google Contacts</string>
+</resources>
