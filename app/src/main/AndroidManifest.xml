@@ -117,7 +117,7 @@
         <!-- Smart Caller ID: NotificationListenerService for WhatsApp, Telegram & Messenger -->
         <service
             android:name=".callerid.PulseNotificationListenerService"
-            android:exported="false"
+            android:exported="true"
             android:label="@string/notification_listener_label"
             android:permission="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE">
             <intent-filter>
@@ -128,7 +128,7 @@
         <!-- Smart Caller ID: Optional AccessibilityService for Social App Public Profile Lookup -->
         <service
             android:name=".callerid.PulseSocialLookupAccessibilityService"
-            android:exported="false"
+            android:exported="true"
             android:label="@string/accessibility_service_label"
             android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE">
             <intent-filter>
